@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Minfermis/Minfermis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Seja Bem Vindo ! Eu sou o Emerson Romana 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ermis_minf/)
+[![linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-romana-senna-b68a46277/)
+
+
+
+![Minfermis GitHub stats](https://github-readme-stats.vercel.app/api?username=Minfermis&show_icons=true&theme=transparent)
+
+## Tecnologias do dia a dia 
+
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+      <img aling="center" alt="MYsql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img aling="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img aling="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div><br/>
+
+
+Se aprimorando a cada dia e amante do crescimento. 
+    
