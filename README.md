@@ -1,8 +1,8 @@
 
 
-### Seja Bem Vindo ! Eu sou o Emerson Romana 👋
+### Seja Bem Vindo ! Eu sou o Emerson Romana 
 
-
+#### Minhas Redes Sociais
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ermis_minf/)
 [![linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-romana-senna-b68a46277/)
