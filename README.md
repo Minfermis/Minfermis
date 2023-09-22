@@ -6,13 +6,13 @@
 
 # Sobre Mim
 
-Após mais de uma década trabalhando em restaurantes, bares e padarias, decidi seguir minha vontade de trabalhar na programação. Abandonei minha carreira anterior (por causa do tempo e a correria que me deixa esgotado)  para me dedicar integralmente aos estudos.
+Após mais de uma década trabalhando em restaurantes, bares e padarias, decidi seguir meu sonho de trabalhar com programação. Abdiquei da minha carreira para me dedicar integralmente aos estudos e então migrar de área.
 
-Hoje, em São Paulo, sou autônomo, produzindo e vendendo doces para sustentar meu estilo de vida enquanto persigo meu sonho de carreira na tecnologia.
+Hoje, em São Paulo, sou autônomo,Produzo e vendo para me sustentar até que consiga iniciar minha carreira na tecnologia.
 
-Minha jornada é desafiadora, mas estou comprometido com minha meta. Se você também está trilhando um caminho de mudança de carreira ou é apaixonado por programação, fique à vontade para me seguir e compartilhar conhecimento.
+Sei que minha jornada é desafiadora mas estou comprometido em fazer essa mudança. Está trilhando um caminho de mudança de carreira? É apaixonado por programação? Vem compartilhar seu conhecimento e seja muito bem - vindo!
 
-Vamos progredir juntos! 💻🌟
+Vamos evoluir juntos! 💻🌟
 
 
 ## Tecnologias do dia-a-dia
