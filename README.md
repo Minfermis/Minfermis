@@ -1,6 +1,6 @@
 
 
-### Seja Bem Vindo ! Eu sou o Emerson
+### Seja Bem Vindo! 
 
 
 
@@ -27,7 +27,7 @@ Vamos evoluir juntos! 💻🌟
 </div><br/>
 
 
-Se aprimorando a cada dia e amante do crescimento. 
+Se aprimorando a cada dia e amante do crescimento
     
 #### Meu contato
 
