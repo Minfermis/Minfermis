@@ -6,7 +6,7 @@ Sou uma pessoa autêntica e vibrante, que busca sempre expandir meus horizontes 
 
 ### Minhas paixões:
 
-**Explorar o mundo:** Adoro viajar e conhecer novas culturas, seja na praia, surfando as ondas, ou em viagens internacionais.\
+**Explorar o mundo:** Adoro viajar e conhecer novas culturas, seja na praia, surfando as ondas.\
 **Mente em movimento:** A corrida me ajuda a manter o corpo e a mente em sintonia, enquanto os jogos me desafiam a pensar estrategicamente e me divertir.\
 **Criatividade na cozinha:** Cozinhar é um hobby que me permite expressar minha criatividade e experimentar novos sabores.\
 **Tecnologia como ferramenta de transformação:** Fascinado pelo poder da programação, pretendo usar minhas habilidades para contribuir para um futuro melhor.\
