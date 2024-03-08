@@ -26,6 +26,11 @@ Vamos evoluir juntos! 💻🌟
     <img aling="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
 
+#### Bootcamps e certificações 
+[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="100"></a>](https://web.dio.me/track/formacao-javascript-developer)
+[<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" height="90"></a>](https://web.dio.me/track/formacao-sql-db-specialist)
+
+
 
 Se aprimorando a cada dia e amante do crescimento
     
