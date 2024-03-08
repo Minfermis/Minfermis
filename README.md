@@ -41,8 +41,6 @@ Acredito que minhas habilidades e experiências me tornam um candidato valioso p
 [<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" height="90"></a>](https://web.dio.me/track/formacao-sql-db-specialist)
 
 
-
-Se aprimorando a cada dia e amante do crescimento
     
 #### Meu contato
 
