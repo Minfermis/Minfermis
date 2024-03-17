@@ -39,6 +39,7 @@ Acredito que minhas habilidades e experiências me tornam um candidato valioso p
 ## Bootcamps e certificações 
 [<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="100"></a>](https://web.dio.me/track/formacao-javascript-developer)
 [<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" height="90"></a>](https://web.dio.me/track/formacao-sql-db-specialist)
+[<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="110"></a>](https://web.dio.me/track/8b170530-da6f-487f-8774-c0bc58254f6c)
 
 
     
@@ -46,3 +47,4 @@ Acredito que minhas habilidades e experiências me tornam um candidato valioso p
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emerson.romana@gmail.com)
 [![linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-romana-senna-b68a46277/)
+[![isntagram](https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ermis_minf/)
