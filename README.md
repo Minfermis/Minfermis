@@ -10,7 +10,8 @@ Sou uma pessoa autêntica e vibrante, que busca sempre expandir meus horizontes 
 **Resiliente e persistente:** Supero meus limites com dedicação e entusiasmo.\
 **Trabalho em equipe:** Valorizo a colaboração e o trabalho em conjunto para alcançar objetivos.\
 **Proativo e com iniciativa:** Busco sempre contribuir para o sucesso da equipe.\
-Acredito que minhas habilidades e experiências me tornam um candidato valioso para qualquer equipe.
+Acredito que minhas habilidades e experiências me tornam um candidato valioso para qualquer equipe!
+
 
 **Obrigado por visitar meu espaço!**
 
