@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFwdmZxY29xcjhtcmhzcmNwbnI2cTYxMXRwaHdpY2NnanNtenE5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%">
+</p>
+
 # Olá pessoal, sejam bem-vindos ao meu espaço!
 
 Me chamo Emerson e sou um apaixonado por livros e pelo constante aprendizado. Recentemente, iniciei uma jornada empolgante migrando da área de restaurantes e hotelaria para o mundo da programação. A cada passo nesse novo caminho, me encanto mais com os desafios e as descobertas que surgem.
