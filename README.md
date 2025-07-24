@@ -34,7 +34,7 @@ Acredito que minhas habilidades e experiências me tornam um candidato valioso p
 
 </div><br/>
 
-## Bootcamps e certificações 
+## Bootcamps
 [<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="100"></a>](https://web.dio.me/track/formacao-javascript-developer)
 [<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" height="90"></a>](https://web.dio.me/track/formacao-sql-db-specialist)
 [<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="110"></a>](https://web.dio.me/track/8b170530-da6f-487f-8774-c0bc58254f6c)
