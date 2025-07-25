@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFwdmZxY29xcjhtcmhzcmNwbnI2cTYxMXRwaHdpY2NnanNtenE5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%">
-</p>
-
 # Olá pessoal, sejam bem-vindos ao meu espaço!
 
 Me chamo Emerson e sou um apaixonado por livros e pelo constante aprendizado. Recentemente, iniciei uma jornada empolgante migrando da área de restaurantes e hotelaria para o mundo da programação. A cada passo nesse novo caminho, me encanto mais com os desafios e as descobertas que surgem.
@@ -50,3 +46,7 @@ Acredito que minhas habilidades e experiências me tornam um candidato valioso p
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emerson.romana@gmail.com)
 [![linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-romana-senna-b68a46277/)
 [![isntagram](https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/ermis_minf/](https://www.instagram.com/romana.senna/))
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFwdmZxY29xcjhtcmhzcmNwbnI2cTYxMXRwaHdpY2NnanNtenE5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%">
+</p>
