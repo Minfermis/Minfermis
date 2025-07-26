@@ -1,52 +1,155 @@
-# Olá pessoal, sejam bem-vindos ao meu espaço!
+<div align="center">
 
-Me chamo Emerson e sou um apaixonado por livros e pelo constante aprendizado. Recentemente, iniciei uma jornada empolgante migrando da área de restaurantes e hotelaria para o mundo da programação. A cada passo nesse novo caminho, me encanto mais com os desafios e as descobertas que surgem.
+# 🎨 Emerson • Desenvolvedor Front-end Criativo
 
-Sou uma pessoa autêntica e vibrante, que busca sempre expandir meus horizontes e compartilhar minhas experiências. Acredito que a vida é uma grande aventura, e estou sempre pronto para o próximo desafio.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=F7F7F7&center=true&vCenter=true&width=550&lines=Transformo+c%C3%B3digos+em+experi%C3%AAncias;Interfaces+que+encantam+e+comunicam;HTML%2C+CSS%2C+JS+com+fluidez" alt="Typing SVG" />
 
-### Em resumo:
+<br/>
 
-**Apaixonado por aprender:** Busco constantemente novas habilidades e conhecimentos.\
-**Resiliente e persistente:** Supero meus limites com dedicação e entusiasmo.\
-**Trabalho em equipe:** Valorizo a colaboração e o trabalho em conjunto para alcançar objetivos.\
-**Proativo e com iniciativa:** Busco sempre contribuir para o sucesso da equipe.\
-Acredito que minhas habilidades e experiências me tornam um candidato valioso para qualquer equipe!
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Front-end Animation" />
+
+</div>
+
+---
+
+## 🧪 Sobre Mim
+
+Olá, sou o **Emerson**, um apaixonado por desenvolvimento **front-end** e criação de interfaces que se conectam com pessoas.
+
+Tenho experiência em:
+
+- HTML5 semântico  
+- CSS3 com animações criativas  
+- JavaScript interativo  
+- Python para lógica e automações web  
+- Figma para prototipagem visual  
+- Banco de dados com SQL e MySQL  
+- Versionamento com Git/GitHub  
+
+---
+
+## 🚀 Minhas Especialidades
+
+- 💻 Sites Responsivos & Modernos  
+- 🎨 Design de Interfaces com Figma  
+- 🧠 Soluções Web com Python  
+- 🔎 Otimização de SEO e performance  
+- 🗄️ Integrações com bancos de dados MySQL  
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45px" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" /></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 Projetos em Destaque
+
+| Projeto | Descrição | Visual |
+|--------|-----------|--------|
+| **MinfBook Rede Social** | Rede social com interface amigável e personalizável | [🔗 Ver Projeto](https://emersonromana.github.io/MinfBook-RedeSocial/) |
+| **Cordel Nordestino** | Página estilizada com fonte personalizada e layout cultural | [🔗 Ver Projeto](https://emersonromana.github.io/cordel-nordestino/) |
+| **Portfolio Interativo** | Site com SPA, transições suaves e tema vibrante | [🔗 Ver Projeto](https://emersonromana.github.io/portif-lio-site-contabilidade/) |
+| **Landing Page Criativa** | Interface com foco comercial e design responsivo | [🔗 Ver Projeto](https://emersonromana.github.io/leadingPage-relvcode/) |
+| **Site Institucional** | Página institucional com foco em soluções empresariais | [🔗 Ver Projeto](https://emersonromana.github.io/site-institucional/) |
+| **Tela de Login com Glassmorphism** | Login com vídeo de fundo e efeito vidro | [🔗 Ver Projeto](https://emersonromana.github.io/glassmorphism-Full-Screen-Background-Video/) |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EmersonRomana&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonRomana&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## ✉️ Contato
+
+📩 Fale comigo para colaborações e projetos criativos:
+
+- 📸 [Instagram @romana.senna](https://www.instagram.com/romana.senna/)
+- 🔗 [LinkedIn Emerson Romana](https://www.linkedin.com/in/emerson-romana/)
 
 
-**Obrigado por visitar meu espaço!**
+---
 
-#habilidades #programação #aprendizagem #aventura #cozinha #criatividade #tecnologia #futuro
+## 🧩 Plano de Estudos
 
--------
-## Tecnologias
+📚 Esta é minha trilha de aprendizado contínuo no desenvolvimento web:
 
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img aling="center" alt="MYsql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img aling="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img aling="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img aling="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img aling="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img aling= "center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img aling= "center" alt="HTML5" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    
+| Tecnologia / Assunto                        | Status    |
+|--------------------------------------------|-----------|
+| UI/UX com Figma                             | ✅        |
+| HTML5 (semântica, acessibilidade, SEO)     | ✅        |
+| CSS3 (responsivo, animações, layout)       | ✅        |
+| JavaScript (DOM, eventos, lógica)          | ✅        |
+| JavaScript Avançado (ES6+, fetch, APIs)    | 🔄        |
+| React.js (componentes, rotas, hooks)       | 🔄        |
+| Node.js + Express (back-end)               | 🔄        |
+| Autenticação e Segurança (JWT, bcrypt)     | 🔄        |
+| APIs REST e Integrações                    | 🔄        |
+| Banco de Dados SQL (MySQL/PostgreSQL)      | ✅        |
+| Banco de Dados NoSQL (MongoDB + Mongoose)  | 🔄        |
+| Git e GitHub (versionamento)               | ✅        |
+| Deploy (front-end + back-end)              | 🔄        |
+| Testes e Boas Práticas                     | 🔄        |
 
-</div><br/>
+🧠 *Estou sempre evoluindo como desenvolvedor, combinando design criativo com soluções técnicas modernas.*
 
-## Bootcamps
-[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="100"></a>](https://web.dio.me/track/formacao-javascript-developer)
-[<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" height="90"></a>](https://web.dio.me/track/formacao-sql-db-specialist)
-[<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="110"></a>](https://web.dio.me/track/8b170530-da6f-487f-8774-c0bc58254f6c)
+---
 
+## 📁 Documentação de Projetos
 
-    
-#### Meu contato
+### 🧑‍💻 [MinfBook Rede Social](https://github.com/EmersonRomana/MinfBook-RedeSocial/blob/main/Readme.md)
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emerson.romana@gmail.com)
-[![linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-romana-senna-b68a46277/)
-[![isntagram](https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/ermis_minf/](https://www.instagram.com/romana.senna/))
+Rede social com interface amigável e personalizável, oferecendo recursos como menu lateral, busca de mensagens, customização de tema e fonte, além de opções de cores e fundos. Desenvolvido com HTML, CSS e JavaScript.
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFwdmZxY29xcjhtcmhzcmNwbnI2cTYxMXRwaHdpY2NnanNtenE5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%">
-</p>
+---
+
+### 🚀 [Landing Page RelvCode](https://github.com/EmersonRomana/leadingPage-relvcode/blob/main/README.md)
+
+Landing page moderna e responsiva com animação 3D interativa usando Spline, efeitos modernos em CSS e animações com AOS. Design focado em performance, UX e SEO, ideal para apresentar serviços e atrair clientes com impacto visual.
+
+---
+
+### 🏢 [Site Institucional](https://github.com/EmersonRomana/site-institucional/blob/main/index.html)
+
+Site institucional com layout moderno e responsivo, criado com HTML5, CSS3 e JavaScript. Apresenta soluções empresariais com foco em performance e clareza visual.
+
+---
+
+### 📊 [Site de Contabilidade](https://github.com/EmersonRomana/portif-lio-site-contabilidade/blob/main/README.md)
+
+Site fictício criado para portfólio de desenvolvedor, representando uma empresa de contabilidade. Projeto moderno, responsivo e animado, com foco em serviços, contato, carrossel de clientes e formulário funcional.
+
+---
+
+### 📽️ [Tela de Login com Glassmorphism](https://github.com/EmersonRomana/glassmorphism-Full-Screen-Background-Video/blob/main/README.md)
+
+Interface de login com vídeo de fundo, efeito vidro (glassmorphism), animação de cursor, tradução dinâmica (pt/en/es) e design responsivo. Desenvolvido com HTML, CSS e JavaScript puro, focando em acessibilidade e experiência moderna.
+
+---
+
+<div align="center">
+
+> “Interfaces são poemas visuais que guiam o usuário com leveza e propósito.” 🎭✨
+
+</div>
