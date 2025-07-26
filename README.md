@@ -148,7 +148,7 @@ Interface de login com vídeo de fundo, efeito vidro (glassmorphism), animação
 
 ---
 
-### 📽️ [Desafio Cordel (Curso em Video)](https://github.com/EmersonRomana/desafio-cordel/blob/main/README.md)
+### 🧠 [Desafio Cordel (Curso em Video)](https://github.com/EmersonRomana/desafio-cordel/blob/main/README.md)
 
 Projeto desenvolvido como parte do Desafio Final do Módulo 3 do curso de HTML5 e CSS3 oferecido gratuitamente pelo Curso em Vídeo , ministrado pelo professor Gustavo Guanabara . Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos sobre semântica HTML, estilização com CSS e uso de fontes externas.
 
