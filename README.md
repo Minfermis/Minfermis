@@ -64,7 +64,7 @@ Tenho experiência em:
 | Projeto | Descrição | Visual |
 |--------|-----------|--------|
 | **MinfBook Rede Social** | Rede social com interface amigável e personalizável | [🔗 Ver Projeto](https://emersonromana.github.io/MinfBook-RedeSocial/) |
-| **Cordel Nordestino** | Página estilizada com fonte personalizada e layout cultural | [🔗 Ver Projeto](https://emersonromana.github.io/cordel-nordestino/) |
+| **Cordel Nordestino** | Página estilizada com fonte personalizada e layout cultural | [🔗 Ver Projeto](https://emersonromana.github.io/desafio-cordel/) |
 | **Portfolio Interativo** | Site com SPA, transições suaves e tema vibrante | [🔗 Ver Projeto](https://emersonromana.github.io/portif-lio-site-contabilidade/) |
 | **Landing Page Criativa** | Interface com foco comercial e design responsivo | [🔗 Ver Projeto](https://emersonromana.github.io/leadingPage-relvcode/) |
 | **Site Institucional** | Página institucional com foco em soluções empresariais | [🔗 Ver Projeto](https://emersonromana.github.io/site-institucional/) |
@@ -145,6 +145,12 @@ Site fictício criado para portfólio de desenvolvedor, representando uma empres
 ### 📽️ [Tela de Login com Glassmorphism](https://github.com/EmersonRomana/glassmorphism-Full-Screen-Background-Video/blob/main/README.md)
 
 Interface de login com vídeo de fundo, efeito vidro (glassmorphism), animação de cursor, tradução dinâmica (pt/en/es) e design responsivo. Desenvolvido com HTML, CSS e JavaScript puro, focando em acessibilidade e experiência moderna.
+
+---
+
+### 📽️ [Desafio Cordel (Curso em Video)](https://github.com/EmersonRomana/desafio-cordel/blob/main/README.md)
+
+Projeto desenvolvido como parte do Desafio Final do Módulo 3 do curso de HTML5 e CSS3 oferecido gratuitamente pelo Curso em Vídeo , ministrado pelo professor Gustavo Guanabara . Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos sobre semântica HTML, estilização com CSS e uso de fontes externas.
 
 ---
 
